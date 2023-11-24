@@ -10657,7 +10657,7 @@
                 "Definition": {
                   "Binding": {
                     "ConceptualEntity": "dim_prospecct",
-                    "ConceptualProperty": "AOV_goal"
+                    "ConceptualProperty": "AOV_goa"
                   }
                 },
                 "State": "Generated",
@@ -20142,7 +20142,7 @@
         "lineageTag": "022b9c36-b1af-477e-bc44-fbc3dd925d68",
         "measures": [
           {
-            "name": "AOV_goal",
+            "name": "AOV_goa",
             "changedProperties": [
               {
                 "property": "FormatString"
